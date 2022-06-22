@@ -1,4 +1,4 @@
-numpy==1.19.1
+numpy==1.22.0
 pandas==1.0.5
 joblib==0.16.0
 scikit-learn==0.22.2.post1
