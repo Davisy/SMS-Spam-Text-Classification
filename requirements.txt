@@ -1,6 +1,6 @@
 numpy==1.19.1
 pandas==1.0.5
-joblib==0.16.0
+joblib==1.2.0
 scikit-learn==0.22.2.post1
 unidecode
 nltk==3.5
